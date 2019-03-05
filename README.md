@@ -5,7 +5,7 @@ Simple color picking game written in HTML, CSS and JavaScript.
 App sugests to you RGB color, you have to find and pick it. 
 
 
-App has hosted in this [URL to the project](https://hummatli.github.io/color-game)
+App has hosted in this [URL to the project](https://hummatli.github.io/color-game/colorGame.html)
 
 
 This app has created on my JavaScript, HTML, CSS learning process.
